@@ -249,6 +249,9 @@
   </script>
   
   <style scoped>
+  h1 {
+    text-align: center;
+  }
   .dashboard {
     max-width: 900px;
     margin: 0 auto;

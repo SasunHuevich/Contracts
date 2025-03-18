@@ -77,7 +77,12 @@
   
   h1 {
     margin-bottom: 1rem;
+    text-align: center;
   }
+
+  p {
+  text-align: center;
+}
   
   .managers-grid {
     display: grid;
