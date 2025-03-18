@@ -72,9 +72,6 @@
   </button>
   <div v-if="investSuccess" class="form-success">
   Токены успешно инвестированы! Теперь вы можете просмотреть ваши инвестиции в Личном кабинете.
-  <div class="mt-3">
-    <router-link to="/dashboard" class="btn btn-small">Перейти в личный кабинет</router-link>
-  </div>
 </div>
 </form>
 <div class="actions-row">
